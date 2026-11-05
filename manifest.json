@@ -1,0 +1,17 @@
+{
+  "name": "Budget Tracker",
+  "short_name": "Budget",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#eef2f1",
+  "theme_color": "#0f6b5c",
+  "description": "Offline budget tracker app",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
